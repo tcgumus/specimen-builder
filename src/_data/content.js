@@ -3,13 +3,13 @@
 
 module.exports = {
 	// Masthead
-	poster: "abc", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
+	poster: "selam", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
 
 	// Tester. This is the default text for the type tester.
 	tester: "Just keep examining every low bid quoted for zinc etchings.",
 
 	// Specimen. These are the four lines which are are set centred. The aim is to show different weights and styles, so choose content that is varied in nature.
-	specimen1: "BORN FREE",
+	specimen1: "HOŞ GELDİNİZ",
 	specimen2: "Construção",
 	specimen3: "Nineteen Eighty-Four, often published as 1984",
 	specimen4:
